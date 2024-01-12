@@ -1,4 +1,4 @@
-# Iterative Chatbot using ~TinyLlama~
+# Iterative Chatbot using *TinyLlama*
 
 ```
 $ python app.py
